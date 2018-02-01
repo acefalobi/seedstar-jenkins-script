@@ -9,6 +9,6 @@ Install required packages from *requirements.txt* using:
 
 `pip install -r requirements.txt`
 
-Simply run *jenkins_script.py* on python with the username, password, and instance url in the following format:
+Then simply run *jenkins_script.py* on python with the username, password, and instance url in the following format:
 
 `python jenkins_script.py [-h] --user USERNAME --pass PASSWORD instance`
